@@ -40,6 +40,14 @@ ChatGPT, Bing Image Creator, Gemini and more prompt curation
 >
 > <img src="https://drive.google.com/uc?id=1aT4-Z28Mzc8SA-D8pnSa9UpXja_Skav1" alt="image" title="The image" width="100" height="100" /> <img src="https://drive.google.com/uc?id=1THkj9S_Vs3oSKJGMRhjy7_bKDNsfQJGK" alt="image"	title="The image" width="100" height="100" /> <img src="https://drive.google.com/uc?id=1v9keqnJCbUZ-v6j0Jt3hij72y5QnAtCV" alt="image"	title="The image" width="100" height="100" />
 
+> **Prompt 202404112250**
+> 
+> Gambar garis tunggal yang halus dan indah dari seorang ninja. Latar belakang hitam. Siluet ninja berpadu anggun dengan tanda tangan yang dieksekusi dengan sempurna, (("No Body")) di sebelah kanan. Karya seni ini memancarkan keanggunan dan keangkuhan, menangkap esensi merek yang canggih dan personal dengan nuansa artistik dan anggun.
+>
+> Hasil Bing
+>
+> <img src="https://drive.google.com/uc?id=1SCRgnbnsS9wDx0lAWhAFEJVrXmp9ApdQ" alt="image" title="The image" width="100" height="100" /> <img src="https://drive.google.com/uc?id=1TyNjsAp9NHDtt3tCyzZUQ3rYO-MPxo4P" alt="image"	title="The image" width="100" height="100" /> <img src="https://drive.google.com/uc?id=1WxQ0-8qFq7cW4lBftyJisEzV4oW1sout" alt="image"	title="The image" width="100" height="100" /> <img src="https://drive.google.com/uc?id=1aX3j_xl5cNXIt7OI-HApWBBcoxLj2sEf" alt="image"	title="The image" width="100" height="100" />
+
 ### Manusia
 > **Prompt 202404112217**
 > 
