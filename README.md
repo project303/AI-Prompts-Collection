@@ -48,6 +48,24 @@ ChatGPT, Bing Image Creator, Gemini and more prompt curation
 >
 > <img src="https://drive.google.com/uc?id=1SCRgnbnsS9wDx0lAWhAFEJVrXmp9ApdQ" alt="image" title="The image" width="100" height="100" /> <img src="https://drive.google.com/uc?id=1TyNjsAp9NHDtt3tCyzZUQ3rYO-MPxo4P" alt="image"	title="The image" width="100" height="100" /> <img src="https://drive.google.com/uc?id=1WxQ0-8qFq7cW4lBftyJisEzV4oW1sout" alt="image"	title="The image" width="100" height="100" /> <img src="https://drive.google.com/uc?id=1aX3j_xl5cNXIt7OI-HApWBBcoxLj2sEf" alt="image"	title="The image" width="100" height="100" />
 
+> **Prompt 202404112254**
+> 
+> Gambar garis tunggal yang tebal dan indah dari seorang ninja. Latar belakang hitam. Siluet ninja berpadu anggun dengan tanda tangan yang dieksekusi dengan sempurna, (("No Body")) di sebelah kanan. Karya seni ini memancarkan keanggunan dan keangkuhan, menangkap esensi merek yang canggih dan personal dengan nuansa artistik dan anggun.
+> 
+> Hasil Bing
+>
+> <img src="https://drive.google.com/uc?id=1IirQbQyEunjOTO65QTKLzE_ENLzOlYZ_" alt="image" title="The image" width="100" height="100" /> <img src="https://drive.google.com/uc?id=1tuREh1j2GokCDCY40qVgV04uct8E-U9q" alt="image"	title="The image" width="100" height="100" /> <img src="https://drive.google.com/uc?id=1jbL4PyeF8WG1vbRrd5CSoVZLaDn6e189" alt="image"	title="The image" width="100" height="100" /> <img src="https://drive.google.com/uc?id=1ousdVOxryCtqF63b2anhU7TMk64gDR4-" alt="image"	title="The image" width="100" height="100" />
+
+> **Prompt 202404112259**
+> 
+> Gambar garis tunggal yang tebal dan indah dari seorang ninja dalam setengah lingkaran menyerupai bulan sabit. Latar belakang hitam. Siluet ninja berpadu anggun dengan tanda tangan (("No Body")) di sebelah kanan.
+> 
+> Hasil Bing
+>
+> <img src="https://drive.google.com/uc?id=1uWfII4Mmdy6sqI9C7bowgB-bdpt1ebTV" alt="image" title="The image" width="100" height="100" /> <img src="https://drive.google.com/uc?id=1z1TnNFn_SyCdMWhSVqZhbIrrOkMMidKJ" alt="image"	title="The image" width="100" height="100" /> <img src="https://drive.google.com/uc?id=18DCUhm0WyB3X7cowLVcTwq708qX4876y" alt="image"	title="The image" width="100" height="100" /> <img src="https://drive.google.com/uc?id=16RAfyjvEkd_KQ8sdswKu_02v_s2pxy3k" alt="image"	title="The image" width="100" height="100" />
+
+
+
 ### Manusia
 > **Prompt 202404112217**
 > 
