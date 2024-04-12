@@ -79,5 +79,7 @@ ChatGPT, Bing Image Creator, Gemini and more prompt curation
 ### Need to Try
 > A minimalist abstract vibrant colorful watercolor painting featuring gold wireframe roses, with wet brushstrokes creating a sense of depth and texture. The roses are depicted in a modern, geometric style, with only the essential lines needed to convey their form. The overall composition is both simplistic and visually striking, evoking a sense of elegance and calm.
 
+> a beautiful woman with long hair, very tiny little sparkles in her hair, wearing a long white dress, bare feet, standing in a green field so that you see only part of her face, watercolor sublimation design, light orange brown clay color background
+
 
 
