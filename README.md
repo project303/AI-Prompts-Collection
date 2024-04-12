@@ -76,10 +76,19 @@ ChatGPT, Bing Image Creator, Gemini and more prompt curation
 > <img src="https://drive.google.com/uc?id=1l2m9D3Fd5RO7lpIynLAJs973TPi4zlpT" alt="image" title="The image" width="100" height="100" /> <img src="https://drive.google.com/uc?id=1azUxTUnxv9HEJpCfSGc52z6tcOpzexl_" alt="image"	title="The image" width="100" height="100" /> <img src="https://drive.google.com/uc?id=1kcCeqjuy1Iv6KA8Sz2q7JcZjl9JMizrY" alt="image"	title="The image" width="100" height="100" /> <img src="https://drive.google.com/uc?id=1EMH7hzRf9dsuxCohUI4fxGBHOrHfesio" alt="image"	title="The image" width="100" height="100" />
 
 
-### Need to Try
+## Need to Try
 > A minimalist abstract vibrant colorful watercolor painting featuring gold wireframe roses, with wet brushstrokes creating a sense of depth and texture. The roses are depicted in a modern, geometric style, with only the essential lines needed to convey their form. The overall composition is both simplistic and visually striking, evoking a sense of elegance and calm.
+> 
 
 > a beautiful woman with long hair, very tiny little sparkles in her hair, wearing a long white dress, bare feet, standing in a green field so that you see only part of her face, watercolor sublimation design, light orange brown clay color background
+
+## Referensi
+* [Learning Prompt](https://github.com/thinkingjimmy/Learning-Prompt)
+* [Awesome GPTs Prompts](https://github.com/ai-boost/awesome-prompts?tab=readme-ov-file)
+* [ChatGPT Prompts for Academic Writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing)
+* [ChatGPT Data Science Prompts](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts)
+* [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
+* 
 
 
 
