@@ -26,9 +26,9 @@
 > Of course! When preparing a presentation on the Hadoop ecosystem, it's important to cover key topics comprehensively to provide a clear understanding of its components, functionalities, and relevance. Here's a suggested outline along with content suggestions for each topic:
 > 
 > 1. **Introduction to Big Data and Hadoop**
->  * Define Big Data and its significance in today's world.
->  * Introduce Hadoop as a leading framework for processing and analyzing Big Data.
->  * Briefly mention the evolution of Hadoop and its importance in handling large-scale data processing tasks.
+>    * Define Big Data and its significance in today's world.
+>    * Introduce Hadoop as a leading framework for processing and analyzing Big Data.
+>    * Briefly mention the evolution of Hadoop and its importance in handling large-scale data processing tasks.
 > 2. **Core Components of Hadoop Ecosystem**
 >    * **Hadoop Distributed File System (HDFS)**: Explain the architecture and role of HDFS in storing large datasets across multiple machines.
 >    * ... and so on
