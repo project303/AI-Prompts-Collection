@@ -186,7 +186,7 @@
 > 29. Write a [number of words] script for a sales meeting with [potential client]
 > 30. Generate a list of [number] tactics to close a sale for [product/service].
 
-Sumber: www.learnprompt.org/chat-gpt-prompts-for-business/
+Sumber: learnprompt.org/chat-gpt-prompts-for-business/
 
 ## 1- Content creation
 > Provide me with SEO-friendly tit;e for a content on B2B marketing?
