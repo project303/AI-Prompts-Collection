@@ -109,6 +109,82 @@
 > 38. Write a [number of words] content marketing plan for [product/service/brand]
 > 39. Write [number of sentences] of copy for a [billboard/transit ad] promoting [product/service/offer].
 
+## Prompts for Sales
+> 1. Create an effective sales pitch for [product/service]
+> 2. Provide [number] reasons why [prospect’s company] should buy [product/service]
+> 3. Write a [number of words] follow-up email for [product/service]
+> 4. Generate a list of [number] objections for [product/service] and how to overcome them
+> 5. Write a [number of words] email to a potential customer about [product/service]
+> 6. Write a [number of words] proposal for [product/service]
+> 7. Write a [number of words] objection handling script for [product/service]
+> 8. Write a [number of words] closing script for [product/service]
+> 9. Write a [number of words] email to a past customer about [product/service]
+> 10. Write a [number of words] email to a current customer about [product/service]
+> 11. Write a [number of words] referral email for [product/service]
+> 12. Write a [number of words] cold email to [prospect] about [product/service]
+> 13. Generate a list of [number] follow-up email ideas after sending a cold email to [prospect]
+> 14. Write a follow-up email after [number of days] days of no response from [prospect’s name]
+> 15. Create an email campaign to follow up with [prospect’s name] on [product/service]
+> 16. Create an email to follow up with [prospect’s name] after a demo of [product/service]
+> 17. Write a [number of words] objection handling script for [objection type, e.g. price, competition, etc.]
+> 18. Provide a list of [number] closing techniques for [sales situation, e.g. phone call, in-person meeting, etc.]
+> 19. Write a [number of words] response to a customer who has expressed interest in [product/service]
+> 20. Write a [number of words] email to invite [prospect’s name] to a demo of [product/service]
+> 21. Write a [number of words] email to schedule a call with [prospect’s name]
+> 22. Write an email to request a referral from a satisfied customer
+> 23. Provide [number] questions to ask during a sales call with [prospect’s name]
+> 24. Write a [number of words] email to thank [prospect’s name] for their time during the sales call
+> 25. Write a [number of words] email to ask for [prospect’s name] feedback after a demo of [product/service]
+> 26. Provide [number] reasons why [product/service] is better than the competitors
+> 27. Write a [number of words] email to [prospect’s name] after [number of days] of no response
+> 28. Write a [number of words] email to introduce [product/service] to [prospect’s company]
+> 29. Provide [number] objections to [product/service] and how to overcome them
+> 30. Write a [number of words] email to send [prospect’s name] a case study of [product/service]
+> 31. Create an email to send [prospect’s name] a free trial of [product/service]
+> 32. Write a [number of words] email to [prospect’s name] to schedule a meeting
+> 33. Write a [number of words] email to ask for [prospect’s name] decision on [product/service]
+> 34. Write a [number of words] email to remind [prospect’s name] of the benefits of [product/service]
+> 35. Create an email to send [prospect’s name] testimonials from satisfied customers
+> 36. Write a [number of words] email to [prospect’s name] to confirm the purchase of [product/service]
+> 37. Provide [number] tips to close a sales deal with [prospect’s name]
+> 38. Write a [number of words] email to [prospect’s name] after the purchase of [product/service] to ask for a review
+> 39. Write a [number of words] email to [prospect’s name] to upsell [product/service]
+> 40. Create an email to send [prospect’s name] a limited time offer for [product/service]
+> 41. Write a [number of words] email to [prospect’s name] to ask for a referral
+> 42. Write a [number of words] email to [prospect’s name] to ask for a second meeting
+> 43. Write a [number of words] email to [prospect’s name] to ask for a testimonial.
+
+## Prompts for Sales Content
+> 1. Write a sales pitch for [product/service]
+> 2. Create a list of [number] benefits of [product/service]
+> 3. Write a [number of words] product description for [product/service]
+> 4. Generate a list of [number] different use cases for [product/service]
+> 5. Write a [number of words] case study on a successful implementation of [product/service]
+> 6. Provide a list of [number] frequently asked questions about [product/service] and their answers
+> 7. Write a [number of words] testimonial from a satisfied customer of [product/service]
+> 8. Write a [number of words] blog post on the latest trends in [industry/field related to product/service]
+> 9. Generate a list of [number] statistics and facts that support the effectiveness of [product/service]
+> 10. Write a [number of words] whitepaper on the future of [industry/field related to product/service]
+> 11. Write a [number of words] email template to follow up with leads after [event/meeting related to product/service]
+> 12. Write a [number of words] proposal for [potential client] to consider [product/service]
+> 13. Generate a list of [number] reasons why [potential client] needs [product/service]
+> 14. Write a [number of words] script for a sales call with [potential client]
+> 15. Generate a list of [number] questions to ask [potential client] during a sales call
+> 16. Write a [number of words] value proposition for [product/service]
+> 17. Generate a list of [number] common objections to [product/service] and how to overcome them
+> 18. Write a [number of words] script for a sales demo of [product/service]
+> 19. Generate a list of [number] reasons why [product/service] is better than its competitors
+> 20. Write a [number of words] email template to request a meeting with [potential client]
+> 21. Write a [number of words] brochure about [product/service]
+> 22. Generate a list of [number] different pricing options for [product/service]
+> 23. Write a [number of words] script for a sales webinar about [product/service]
+> 24. Generate a list of [number] keywords related to [product/service] for search engine optimization
+> 25. Write a [number of words] sales deck for [product/service]
+> 26. Generate a list of [number] common misconceptions about [product/service] and the facts to dispel them
+> 27. Write a [number of words] script for a sales video about [product/service]
+> 28. Generate a list of [number] ways to upsell or cross-sell [product/service]
+> 29. Write a [number of words] script for a sales meeting with [potential client]
+> 30. Generate a list of [number] tactics to close a sale for [product/service].
 
 ## 1- Content creation
 > Provide me with SEO-friendly tit;e for a content on B2B marketing?
